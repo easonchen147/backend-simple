@@ -10,7 +10,7 @@ servers:
 
 externalDocs:
   description: v1 REST API
-  url: https://github.com/ndelvalle/rustapi
+  url: https://github.com/easonchen147/backend-simple
 
 paths:
   "/v1/cats":
